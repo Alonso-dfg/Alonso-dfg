@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Hola soy Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola soy Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW02bWhra28zcG9wMTRwMjVuMWRiMXM5cnZmMjU3NzdiM3FldnU4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uYh2E1meNXAFa/giphy.gif" width="250">
