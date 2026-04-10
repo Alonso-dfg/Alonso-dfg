@@ -1,31 +1,36 @@
-# 🙂‍↕️ Hola, yo soy Daniel Alonso
+# 👋 Hola, soy Daniel Alonso
 
-🔹 I'm a software developer passionate about technology and learning.  
-🔹 Currently exploring **Kotlin**, **Python**, and **FastAPI**.  
-
----
-
-### 💻 Languages and Tools:
-![Python](https://img.icons8.com/color/48/python.png)
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" height="40"/>
-
-
+💻 Soy desarrollador de software apasionado por la tecnología y el aprendizaje continuo.  
+🚀 Actualmente explorando **Kotlin**, **Python** y **FastAPI**.
 
 ---
 
-### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonso-dfg&layout=compact&theme=radical)
+## 🧑‍💻 Sobre mí
+- 🔭 Actualmente trabajando en proyectos personales
+- 🌱 Aprendiendo desarrollo backend y APIs
+- ⚡ Interesado en buenas prácticas y arquitectura de software
 
 ---
 
-### 🧠 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alonso-dfg&show_icons=true&theme=radical)
+## 🛠️ Lenguajes y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 📫 Connect with me:
-[![Twitter](https://img.icons8.com/color/48/twitter.png)](https://twitter.com/)
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/)
-[![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/)
-[![Discord](https://img.icons8.com/color/48/discord.png)](https://discord.gg/)
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Conecta conmigo
+
+- 🐦 Twitter: https://twitter.com/TU_USUARIO  
+- 💼 LinkedIn: https://linkedin.com/in/TU_USUARIO  
+- 📸 Instagram: https://instagram.com/TU_USUARIO  
+- 💬 Discord: TU_USUARIO#1234
